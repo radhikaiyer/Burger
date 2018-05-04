@@ -1,5 +1,5 @@
 -- Select burgers_db
-USE `burgers_db`;
+USE `burgerapp_db`;
 
 -- insert 3 burgers
 INSERT INTO `burgers` (burger_name, devoured, date) VALUES ('Veggie', false, CURRENT_TIMESTAMP);
